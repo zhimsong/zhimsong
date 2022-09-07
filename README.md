@@ -1,5 +1,5 @@
 - 👋 Hi, I’m songzhimin
-- 👀 I’m interested in play with girls
+- 👀 I’m interested in play mobile games
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data protection
 - 📫 How to reach me via email
